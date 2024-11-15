@@ -5,5 +5,10 @@
   "image": "https://raw.githubusercontent.com/Skivon-com/skivon/refs/heads/main/logo.png",
   "website": "https://skivon.com",
   "twitter": "https://x.com/@Skivon_com",
+  "telegram": "https://t.me/Skivon",
+    "extensions": {
+    "website": "https://skivon.com",
+  "twitter": "https://x.com/@Skivon_com",
   "telegram": "https://t.me/Skivon"
+  }
 }
